@@ -14,14 +14,14 @@ Previously this pretrained BERT model had been fine-tuned with our data for the 
 ## 4. Results
 The model performed extremely well, with a general accuracy of 96% using the base model, and 97% using the fine-tuned version.
 
-'''
+```
 Classification Report: ds_val
               precision    recall  f1-score   support
 
-    negativo       0.98      0.97      0.97       384
-    positivo       0.93      0.94      0.93       149
+    negative       0.98      0.97      0.97       384
+    positive       0.93      0.94      0.93       149
 
     accuracy                           0.96       533
    macro avg       0.95      0.96      0.95       533
 weighted avg       0.96      0.96      0.96       533
-'''
+```
