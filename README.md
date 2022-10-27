@@ -18,10 +18,10 @@ The model performed extremely well, with a general accuracy of 96% using the bas
 Classification Report: ds_val
               precision    recall  f1-score   support
 
-    negative       0.98      0.97      0.97       384
-    positive       0.93      0.94      0.93       149
+    negativo       0.98      0.98      0.98       384
+    positivo       0.94      0.95      0.94       149
 
-    accuracy                           0.96       533
-   macro avg       0.95      0.96      0.95       533
-weighted avg       0.96      0.96      0.96       533
+    accuracy                           0.97       533
+   macro avg       0.96      0.96      0.96       533
+weighted avg       0.97      0.97      0.97       533
 ```
