@@ -15,7 +15,7 @@ Previously this pretrained BERT model had been fine-tuned with our data for the 
 
 In the figures below we can see that after epoch 2 the model started overfitting, with validation loss going up while training loss kept going down. However, the model had its best accuracy in epoch 4.
 
-<img src="images/loss_curves.png">
+<img src="images/loss_curves.png" width="800">
 <img src="images/accuracy.png">
 
 ## 5. Performance metrics
