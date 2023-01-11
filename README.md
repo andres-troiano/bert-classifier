@@ -1,6 +1,8 @@
 # BERT classifier
 
-## 1. Business problem
+1. [Business problem](#sec_1)<br>
+
+## 1. Business problem <a class="anchor" id="sec_1"></a>
 When calling overdue clients for collection, sometimes the registered phone number is outdated. This can happen when the client moves to a new home, changes jobs, or the line is taken down and reassigned by the phone company to a new client. In some cases agents keep calling outdated phone numbers, wasting valuable time and creating friction for the called party, who repeatedly informs of the misunderstanding.
 
 ## 2. Goal
